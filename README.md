@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT%20by%20Shahab%20A.K-yellow.svg)
+
 # LifeGuard: Health Monitoring and Emergency Response System 🚑💓
 
 **"Empowering real-time health monitoring with intelligent emergency response."**
