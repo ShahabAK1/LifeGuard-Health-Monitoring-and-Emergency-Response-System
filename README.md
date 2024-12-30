@@ -1,5 +1,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT%20by%20Shahab%20A.K-yellow.svg)
 
+![Forks](https://img.shields.io/github/forks/ShahabAK1/LifeGuard-Health-Monitoring-and-Emergency-Response-System?style=social)
+![Stars](https://img.shields.io/github/stars/ShahabAK1/LifeGuard-Health-Monitoring-and-Emergency-Response-System?style=social)
+![Contributors](https://img.shields.io/github/contributors/ShahabAK1/LifeGuard-Health-Monitoring-and-Emergency-Response-System)
+
+
 # LifeGuard: Health Monitoring and Emergency Response System 🚑💓
 
 **"Empowering real-time health monitoring with intelligent emergency response."**
